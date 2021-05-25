@@ -25,4 +25,13 @@ The supply chain process of coffee in this example starts out when a farmer harv
 
 Details of the UML diagram are listed in the UML.docx file within this repo
 
-The DAPP starts out with a form for farm details of the coffee source to be entered. This option is only available for farmers and it allows them to record when coffee is harvested (when the harvest button is clicked), processed (when the process button is clicked), packed (when the pack button is clicked) and  when the coffee is finally for sale (When ForSale button is clicked).
+The DAPP starts out with a form for farm details of the coffee source to be entered. This option is only available for farmers and it allows them to record when coffee is harvested (when the harvest button is clicked), processed (when the process button is clicked), packed (when the pack button is clicked) and  when the coffee is finally for sale (When ForSale button is clicked). You can see at the bottom of the page when an action is executed along with its transaction ID on the blockchain. 
+
+//picture
+
+Then, there is a different form below for distributors/retailers and consumers that allows them to interact and commit data on-chain. An address with a distributor role can buy then ship the items by clicking the buy and ship buttons respectively on that form. After that, Retailers and consumers can record when they receive and  purchase the coffee, respectively, by clicking on the Receive and Purchase buttons. 
+
+//
+
+
+At the End, (Most important part) This DAPP makes it possible to fetch the supply chain process of the coffee by searching using the coffee's SKU and UPC to get the desired supply chain process of the coffee.
