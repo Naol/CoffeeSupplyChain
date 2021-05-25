@@ -45,3 +45,16 @@ https://github.com/Naol/CoffeeSupplyChain/blob/master/2.PNG
 At the End, (Most important part) This DAPP makes it possible to fetch the supply chain process of the coffee by searching using the coffee's SKU and UPC to get the desired supply chain process of the coffee.
 
 https://github.com/Naol/CoffeeSupplyChain/blob/master/4.PNG
+
+
+#Activity Diagram
+https://github.com/Naol/CoffeeSupplyChain/blob/master/5.PNG
+
+#sequence Diagram
+https://github.com/Naol/CoffeeSupplyChain/blob/master/6.JPG
+
+#State Diagram
+https://github.com/Naol/CoffeeSupplyChain/blob/master/7.PNG
+
+#Data Model Diagram
+
