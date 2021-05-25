@@ -14,6 +14,13 @@ Node Version - v10.16.3
 
 Web3 Version - 1.2.1
 
+
+Reasons for using Truffle - truffle is a framework tht provides a way to create and get a dapp up and running without the hassle. It provides an easy way to compile, test and deploy an ethereum smart contracts on the etheruem blockchain.
+
+Reasons for web3- Using Web3 this coffee supply chain DAPP is able to interact with local or remote blockchains. web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket. (source: web3js.readthedocs.com)
+
+ 
+
 # CoffeeSupplyChain
 UML files can be found in the UML.docx file
 
