@@ -47,14 +47,15 @@ At the End, (Most important part) This DAPP makes it possible to fetch the suppl
 https://github.com/Naol/CoffeeSupplyChain/blob/master/4.PNG
 
 
-#Activity Diagram
-https://github.com/Naol/CoffeeSupplyChain/blob/master/5.PNG
+# Activity Diagram
+https://github.com/Naol/CoffeeSupplyChain/blob/master/5.png
 
-#sequence Diagram
-https://github.com/Naol/CoffeeSupplyChain/blob/master/6.JPG
+# Sequence Diagram
+https://github.com/Naol/CoffeeSupplyChain/blob/master/6.jpg
 
-#State Diagram
+# State Diagram
 https://github.com/Naol/CoffeeSupplyChain/blob/master/7.PNG
 
-#Data Model Diagram
+# Data Model Diagram
 
+https://github.com/Naol/CoffeeSupplyChain/blob/master/8.PNG
